@@ -1,2 +1,2 @@
 # AClans
-Clans plugin for Bandomas
+ Clans plugins for UniWorlds and Bandomas

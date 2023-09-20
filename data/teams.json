@@ -1,0 +1,579 @@
+{
+    "MRCL": {
+        "teamCreate": "kirkos5804",
+        "teamColor": "§6§lОранжевый",
+        "teamID": "c8d4150cd5d5ff1d65b5885a898bffad",
+        "teamPl": [
+            "Kolytepe",
+            "Mifroz",
+            "xionnoff"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 12 вемя"
+    },
+    "SUN": {
+        "teamCreate": "TobyFlauer",
+        "teamColor": "§2§lТёмно-Зелёный",
+        "teamID": "5075a1a653bd35918d2933321aea7e27",
+        "teamPl": [
+            "Nanami9408",
+            "Bebby Yoda",
+            "maxpankov00",
+            "lionarall",
+            "Ananas3531",
+            "WaCeE",
+            "Marker96178"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 12 вемя"
+    },
+    "ВKС": {
+        "teamCreate": "ggtbFGX",
+        "teamColor": "§e§lЖёлтый",
+        "teamID": "caf0b6e127e0639254e517aa734a432d",
+        "teamPl": [
+            "Irbis4577",
+            "HopingTrue",
+            "Lord LioneX",
+            "Lyb1telPivka",
+            "Ramaneli",
+            "GayMasterSoHot",
+            "venatarancuk6",
+            "Herobrine86716",
+            "Aidtilop",
+            "EdgyOmnivore383",
+            "BoxPassG",
+            "DLukas4027",
+            "Vl 4bypel"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 12 вемя"
+    },
+    "BOB": {
+        "teamCreate": "nucleosha",
+        "teamColor": "§0§lЧёрный",
+        "teamID": "a9fec812d18aaa41506614c1e8836c44",
+        "teamPl": [
+            "blatota4023",
+            "anton4ik167",
+            "WolfBrother7125"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 12 вемя"
+    },
+    "OS": {
+        "teamCreate": "Katagan12321",
+        "teamColor": "§1§lТёмно-Синий",
+        "teamID": "96e230fddb7238a3ffe0175590e84286",
+        "teamPl": [
+            "TylerDurden6472",
+            "wAYPMEK1",
+            "Krpingvi",
+            "ChiChiPorenko",
+            "D6NK8178",
+            "Snelfi",
+            "SataNist6669990",
+            "Snelfi"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 14 вемя"
+    },
+    "AI": {
+        "teamCreate": "NeonGreat1",
+        "teamColor": "§g§lЗолотой",
+        "teamID": "6a82596d68ec2f9b644757a5bfb99b06",
+        "teamPl": [
+            "KapitanGRYU",
+            "Akira1790",
+            "Moony4440",
+            "MisterDaks",
+            "Ismuil3427",
+            "LordBlocks2"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 17 вемя"
+    },
+    "ВКС": {
+        "teamCreate": "PopHob",
+        "teamColor": "§5§lТёмно-Пурпурный",
+        "teamID": "ef2a139917dc19c922f5c1614f6b2f4f",
+        "teamPl": [
+            "Kit88889la",
+            "ImMoRtal16857",
+            "tigrofff",
+            "darnidns9",
+            "meo3Wmew",
+            "VAXIT2298",
+            "Itsfatazix",
+            "SteeMe2",
+            "TearoNyt",
+            "Oblak0ff",
+            "MedskyNet",
+            "XModestXD",
+            "Compot6089",
+            "Dan9872292",
+            "Fellkom",
+            "MaxPower7689",
+            "KLAY9341",
+            "SolevoyPiter",
+            "silicium1484",
+            "AsteroidHare692",
+            "Bobxolotl",
+            "Discord8038",
+            "Leshiy 2609",
+            "yung90at",
+            "detyt7549",
+            "Zomomowka",
+            "SubZero3930x",
+            "Danik20099352",
+            "RogosHD"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 19 вемя"
+    },
+    "WL": {
+        "teamCreate": "KupkaOne",
+        "teamColor": "§f§lБелый",
+        "teamID": "66b17f319e8469fdb7c87fcfc1e2fb52",
+        "teamPl": [
+            "Max99991799"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 19 вемя"
+    },
+    "Враг": {
+        "teamCreate": "TAYDM2941",
+        "teamColor": "§8§lТёмно-Серый",
+        "teamID": "6612d5649fe09b6c2e77e308f2909242",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 22 вемя"
+    },
+    "ATI": {
+        "teamCreate": "oleh123geme",
+        "teamColor": "§1§lТёмно-Синий",
+        "teamID": "0d75f355e30b436c0ec1dd2fe49ea4bb",
+        "teamPl": [
+            "Lisa200817",
+            "mirhan2547"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 24 вемя"
+    },
+    "Кр": {
+        "teamCreate": "Gena7213",
+        "teamColor": "§2§lТёмно-Зелёный",
+        "teamID": "d8838383f753fae6a5892c178f80051c",
+        "teamPl": [
+            "lifter9645",
+            "kartoxa7776",
+            "Kocoin",
+            "KinoFan228",
+            "VicelikePrawn53",
+            "LikeWasted228",
+            "Terpilla11",
+            "RomanDov",
+            "Saxarok22848"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 3 Месяц 27 вемя"
+    },
+    "CSDD": {
+        "teamCreate": "JesusDeadLine",
+        "teamColor": "§4§lТёмно-Красный",
+        "teamID": "e0a8312552d6ca9f0a75fbaaef1da44e",
+        "teamPl": [
+            "BrawnyLocket791"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 4 Месяц 23 вемя"
+    },
+    "BеIm": {
+        "teamCreate": "VinkW",
+        "teamColor": "§e§lЖёлтый",
+        "teamID": "9df42a61a27af086ff7aaa808caa46cd",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 5 Месяц 11 вемя"
+    },
+    "Sea": {
+        "teamCreate": "Starplati208",
+        "teamColor": "§4§lТёмно-Красный",
+        "teamID": "326f62f7c4aabcd56d490b56c09fc6bf",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 5 Месяц 14 вемя"
+    },
+    "cofe": {
+        "teamCreate": "Titikb",
+        "teamColor": "§4§lТёмно-Красный",
+        "teamID": "3ecdbb71e9dd5f4201791c864379b655",
+        "teamPl": [
+            "Siamang2915"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 5 Месяц 20 вемя"
+    },
+    "SOS": {
+        "teamCreate": "SonLeo8390",
+        "teamColor": "§4§lТёмно-Красный",
+        "teamID": "f822366fdc97a7a86a74e26c25cd810f",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 5 Месяц 25 вемя"
+    },
+    "DC": {
+        "teamCreate": "YTMrSmouk",
+        "teamColor": "§4§lТёмно-Красный",
+        "teamID": "f914037b2e8d9c0e296849f739d6cb43",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 6 Месяц 3 вемя"
+    },
+    "ATG": {
+        "teamCreate": "Deus Lo Vult770",
+        "teamColor": "§3§lБирюзовый",
+        "teamID": "8fb6dd966cbe4215b1eed30685538d71",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 6 Месяц 3 вемя"
+    },
+    "даун": {
+        "teamCreate": "NECHELOVEK1615",
+        "teamColor": "§5§lТёмно-Пурпурный",
+        "teamID": "d53533614ba8382fcda3bbde16a0106c",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 6 Месяц 12 вемя"
+    },
+    "KRM": {
+        "teamCreate": "KK7567Rex",
+        "teamColor": "§g§lЗолотой",
+        "teamID": "98c02fe63d344c0c29ed0a604c6d6f46",
+        "teamPl": [
+            "KK1010Fox",
+            "YT11Ximistray11",
+            "EnchantOSN"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 6 Месяц 14 вемя"
+    },
+    "Arch": {
+        "teamCreate": "Fest111",
+        "teamColor": "§f§lБелый",
+        "teamID": "ee3122fe4fa2023abdf95258c30aec38",
+        "teamPl": [
+            "KaRnI2704",
+            "miristi",
+            "Kenry99021261",
+            "Ntil Rstman",
+            "AdriftSage29296",
+            "SKELETon qq",
+            "Anime1241",
+            "BraveSeer7",
+            "your DEN4IK",
+            "Dinoitengin",
+            "fohow23",
+            "HappyCheburek",
+            "SliderFull2364",
+            "agatik5566"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 6 Месяц 16 вемя"
+    },
+    "БП": {
+        "teamCreate": "Yarosh3302",
+        "teamColor": "§7§lСерый",
+        "teamID": "b4e0d24ed51b65b383f8a3d022900366",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 6 Месяц 18 вемя"
+    },
+    "SoFT": {
+        "teamCreate": "ZeeZeen",
+        "teamColor": "§1§lТёмно-Синий",
+        "teamID": "48741258c40772381a198d5cfca3bf9e",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 7 Месяц 19 вемя"
+    },
+    "РТК": {
+        "teamCreate": "Revoluchioner",
+        "teamColor": "§g§lЗолотой",
+        "teamID": "16017f5906b11c27b9d7060445c37620",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 7 Месяц 27 вемя"
+    },
+    "OG": {
+        "teamCreate": "sharedinn1",
+        "teamColor": "§6§lОранжевый",
+        "teamID": "4c502452321b7c581bdd5f225eaa5ff6",
+        "teamPl": [
+            "gast099471",
+            "FullSocialism",
+            "GumBall5132",
+            "Vin1cius52"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 7 Месяц 31 вемя"
+    },
+    "Wizer": {
+        "teamCreate": "aquarium9604",
+        "teamColor": "§0§lЧёрный",
+        "teamID": "dedc6e8c3a6da1c0036b7f13db6133bc",
+        "teamPl": [
+            "KoTiKrooom",
+            "ForestAst",
+            "gamer222hub",
+            "mideks8802",
+            "SicklyCoder4080"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 3 вемя"
+    },
+    "Бездна": {
+        "teamCreate": "InferNo5474",
+        "teamColor": "§4§lТёмно-Красный",
+        "teamID": "c972d6d197119d53a6ac5edcf8f3cb3a",
+        "teamPl": [
+            "Podgyznik234"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 3 вемя"
+    },
+    "ЗНТ": {
+        "teamCreate": "terlobolskiii",
+        "teamColor": "§7§lСерый",
+        "teamID": "0edb2b3256df7f04be6e3c422b728b93",
+        "teamPl": [
+            "CreeperFix"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 3 вемя"
+    },
+    "FENIX": {
+        "teamCreate": "Valdemarik2696",
+        "teamColor": "§1§lТёмно-Синий",
+        "teamID": "94d4b61852607ee0bba63ac9b1c9d8be",
+        "teamPl": [
+            "ZiroX10Tekart",
+            "Shahter2008",
+            "FakeHealer34900",
+            "Buldog2222"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 6 вемя"
+    },
+    "Yakuza": {
+        "teamCreate": "Darkhan723",
+        "teamColor": "§2§lТёмно-Зелёный",
+        "teamID": "eb46821ff8a4e2b418df54ae104cd997",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 7 вемя"
+    },
+    "Анкап": {
+        "teamCreate": "ChandlerMeMeGod",
+        "teamColor": "§g§lЗолотой",
+        "teamID": "a0a5ca4d42a0637e84e57663177c2874",
+        "teamPl": [
+            "Nosok1021308"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 14 вемя"
+    },
+    "Крест": {
+        "teamCreate": "Alastair1571",
+        "teamColor": "§4§lТёмно-Красный",
+        "teamID": "079c7f9e6ae8fc7b22bec4bfd517d2c5",
+        "teamPl": [
+            "RYDER3034"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 14 вемя"
+    },
+    "FENIX1": {
+        "teamCreate": "NikolayBOMJ",
+        "teamColor": "§4§lТёмно-Красный",
+        "teamID": "63b731c578a1b7ce30a6fa535bbf48a2",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 18 вемя"
+    },
+    "DoldRD": {
+        "teamCreate": "MrEbka",
+        "teamColor": "§6§lОранжевый",
+        "teamID": "7b2867a96efb9269edb33f9f85449937",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 18 вемя"
+    },
+    "Gayer": {
+        "teamCreate": "Grigor890",
+        "teamColor": "§g§lЗолотой",
+        "teamID": "dc9ff05bb510f98f5e41b1caca8d5f6d",
+        "teamPl": [],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 19 вемя"
+    },
+    "ST": {
+        "teamCreate": "DeuksFPS",
+        "teamColor": "§d§lПурпурный",
+        "teamID": "2d1628eaf6e98f074d74bdd92a56d283",
+        "teamPl": [
+            "Tifemm"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 20 вемя"
+    },
+    "lollol": {
+        "teamCreate": "Lisonka8495",
+        "teamColor": "§3§lБирюзовый",
+        "teamID": "966a8b201e687c1cbead7c8a881403b0",
+        "teamPl": [
+            "FeltedFour24861"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 20 вемя"
+    },
+    "www": {
+        "teamCreate": "WaterSheepPi",
+        "teamColor": "§1§lТёмно-Синий",
+        "teamID": "fe6d22a06b48e31bbe3cd7d21ea17f41",
+        "teamPl": [
+            "DIMA2002887"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 8 Месяц 25 вемя"
+    },
+    "Нортар": {
+        "teamCreate": "olgeo03",
+        "teamColor": "§6§lОранжевый",
+        "teamID": "e93aaba5e3793bc224d64c6a6fa2f5ab",
+        "teamPl": [
+            "Fenrir2333",
+            "MassonJora07",
+            "GeRRmaN1045"
+        ],
+        "teamPermission": [
+            false,
+            true
+        ],
+        "teamCreateTime": "2023 Год 9 Месяц 9 вемя"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "plugin_setting": {
+        "theTeamNameLength": 6,
+        "isSettingPVP": true,
+        "ShowNameDisplay": true,
+        "chatShowTeam": true
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "aclans",
+  "version": "1.0.0",
+  "description": "Plugin for LLBDS that adds clans.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-modals": "^1.3.9",
+    "discord.js": "^14.13.0"
+  }
+}

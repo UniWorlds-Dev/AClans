@@ -1,0 +1,138 @@
+{
+  "translate": {
+    "cmdIntroduction": "открыть меню кланов",
+
+    "titleMenu": "кланы",
+    "MenuContent": "§l§fПривет, §a${pl}§f, у тебя ещё нет клана! \nВыбери что хочешь сделать",
+
+    "TeamInviteHint_Have": "Информация о приглашении §c${plInviteNum}§r\n§9У тебя есть приглашение в клан ${plInviteNum} ",
+
+    "buttonCreateTeam": "§l§0Создать клан",
+    "TeamInviteHint_no": "§l§0Приглашения",
+    "buttonQuit": "§l§0Выйти",
+
+    "headerHint": "§l§fПривет, §a${pl}§f!\n§l§fВы глава клана: §a${teamName}§f\n§l§fВыбери что хочешь сделать\n§l§aПамятка: §l§fчтобы написать в чат клана напиши перед сообщением #",
+    "buttonTeamInfo": "§l§0Информация о клане",
+    "buttonTeamManage": "§l§0Управление участниками",
+    "buttonTeamDissolve": "§l§0Удалить клан",
+
+    "memberHint": "§l§fПривет, §a${pl}§f!\n§l§fВы участник клана: §a${teamName}§f\n§l§fВыбери что хочешь сделать\n§l§aПамятка: §l§fчтобы написать в чат клана напиши перед сообщением #",
+    "buttonTeamInfo2": "§l§0 Информация о клане",
+    "buttonQuitTeam": "§l§0 Покинуть клан",
+
+    "noInviteHint": "У вас нет приглашений в какой-либо клан!",
+
+    "TeamDissolvePromptAgainContent": "§l§fВы хотите удалить свой клан? Отменить это действие невозможно!",
+    "buttonTeamDissolveYes": "§l§0Да",
+    "buttonTeamDissolveNo": "§l§0Нет",
+    "TeamDissolveNotic": "Клан удалён, игроки будут умведомлены об этом",
+
+    "TeamQuitPromptAgainContent": "§l§fВы уверены что хотите уйти? Вам могут потом прислать приглашение снова.",
+    "buttonTeamQuitYes": "§l§0Да",
+    "buttonTeamQuitNo": "§l§0Нет",
+    "TeamQuitNotic": " покинул клан!",
+    "TeamQuitHint": "Вы покинули клан!",
+
+    "TeamJoin": "§l§fСписок приглашений:",
+    "NoThisTeam": "Клан удален, вам теперь туда не попасть!",
+    "yesJoinTeam_1": "присоеденился в клан!",
+    "yesJoinTeam_2": "Теперь вы участник клана под названием: ",
+
+    "teamInfoHint_1": "§l§fКлан: ${teamName}§r\n§l§fГлава: §a${teamCreater}",
+    "TeamColor": "§l§fЦвет клана:",
+    "TeamPlShowHint": "§l§fЧисло участников клана: §e${teamAllPlNum}\n§l§7Для просмотра ников двигайте ползунок снизу",
+    "TeamPlList": "§l§fСписок участников",
+    "hintAdd": "чтобы посмотреть сдвиньте ползунок",
+    "TeamOnlinePl": "§l§fОнлайн игроков в клане: §e${teamAllPlNum}",
+
+    "TeamPlOperateHint": "§l§fВыберите действие:",
+    "TeamPlOperateInvite": "§l§0Пригласить Игрока",
+    "TeamPlOperateRemove": "§l§0Удалить Игрока",
+    "TeamNoPl": "ваш клан пуст!",
+
+    "TeamNoPl1": "ваш клан пуст!",
+    "TeamRemoveHint": "§l§fУдалить участника клана\n§l§fОтменить это действие невозможно!",
+    "TeamRemovePlHint": "§l§fВыберите игрока для удаления",
+    "TeamKickHint": "клан ${TeamName}§7 выгнал вас!",
+	
+	"Opplayer": "§l§0Назначить соруководителей",
+	"SwitherOp": "Выберите кого вы хотите повысить",
+	"OpMessage": "Вас повысили до соруководителя!",
+	"OpPlTitle": "Выберите игрока которого вы хотите повысить \n§l§fВнимание ПОСЛЕ ЭТОГО ВЫ НЕ СМОЖЕТЕ ИСКЛЮЧИТЬ ЭТОГО ИГРОКА\nВам нужно будет обратиться к Администрации !",
+	"OpPlSearch":"Выберите игрока которого хотите повысить",
+	
+
+    "InvitePlToTeam": "пригласить игроков в клан ${TeamName}§f",
+    "NoPlCanInvite": "на сервере некого пригласить!",
+    "currentCanInvite": "§l§fвыберите, кого хотите пригласить",
+    "canotInviteSelf": "нельзя пригласить самого себя!",
+    "canotInviteSelfTeamPl": "нельзя пригласить участника клана повторно!",
+    "InvitationExpired_1": "нельзя пригласить игрока, который состоит в другом клане! Попробуйте его завербовать)",
+    "InvitationExpired_2": "вы уже отправили игроку приглашение!",
+
+    "TeamWantInviteYou": "§l§fКлан ",
+    "TeamWantInviteYou1": "§l§fпригласил вас к себе\n§l§fПрисоединиться к клану?",
+    "TeamWantInviteYou_Yes": "§l§0Да",
+    "TeamWantInviteYou_Neglect": "§l§0Нет",
+    "TeamJoinSuccessHint": "Вы присоединились к клану",
+    "TeamJoinYesHint": "присоединился к вашему клану!",
+    "TeamInvitePlHint": "Вы успешно приняли игрока ${invitePl} ",
+
+    "TeamDissolveNotic_Join": "Твой клан ${teamName} §7удалён!",
+
+    "TeamColorHint": "§l§fЦвет клана:",
+    "color1": "§lТёмно-Синий",
+    "color2": "§lТёмно-Зелёный",
+    "color3": "§lБирюзовый",
+    "color4": "§lТёмно-Красный",
+    "color5": "§lТёмно-Пурпурный",
+    "color6": "§lОранжевый",
+    "color7": "§lСерый",
+    "color8": "§lТёмно-Серый",
+    "color9": "§lСиний",
+    "color0": "§lЧёрный",
+    "colorA": "§lЗелёный",
+    "colorB": "§lГолубой",
+    "colorC": "§lЯрко-Красный",
+    "colorD": "§lПурпурный",
+    "colorE": "§lЖёлтый",
+    "colorF": "§lБелый",
+    "colorG": "§lЗолотой",
+
+    "TeamCreateReduceEcHint": "§l§fПривет, §a${pl}§f, заполни форму создания клана!",
+    "TeamNameEnterHint_1": "§l§fНазвание клана, которое будет отображаться над головой и в чате",
+    "TeamNameEnterHint_2": "§fНазвание клана. Ограничение §a${teamNameLength}§f символа.",
+    "InvalidTeamName": "в названии клана найдены недопустимые символы! Попробуйте сменить название!",
+    "TeamCreateFail_length": "название вашего клана ${teamName}§7 слишком длинное!",
+    "TeamCreateFail_exist": "такой клан уже существует ${teamName}§7!",
+    "TeamCreateName_null": "название клана не может быть пустым!  ",
+    "TeamCreateSuccessHint": "Клан успешно создан!\n§l§7Название: ${teamName}\n§l§7Цвет: ${teamColor}",
+
+    "attackHint_1": "§l§fАтаковать своих творащией плохо!",
+    "attackHint_2": "§l§fАтаковать своих творащией плохо!",
+    "attackHint_pvp": "§l§eВы атакуете игрока чужого клана.",
+
+
+
+    "titleRemovePl": "Удалить участника клана",
+    "titleTeamPermissions": "Права клана",
+
+
+    "NoAction": "Нет активности",
+
+
+    "TeamPermissionsHint": "Настройки поведения игроков (действует для всех участников)",
+    "TeamPermissionsHint_PVP": "PVP между участниками (Могут ли участники клана атаковать своих)",
+    "TeamPermissionsHint_Chat": "Использование чата клана (Могут ли игроки пользовоться клановой доской используя #. Клановую доску можно испольовать в качестве кланового чата.)",
+    "TeamPermissionsHint_Footer": "\n\n- Если перед сообщением поставить # - то вы сможете отправлять сообщения в клановую доску\n- Если выключить клановый PVP то игроки не смогут бить друг друга.",
+    
+    "TeamCreateTime_Record": "${timeYear} Год ${timeMonth} Месяц ${timeDay} вемя",
+    
+  
+
+
+
+    "TeamChat": "Клановый Чат",
+    "noTeamChat": "В вашей команде не включен командный чат"
+  }
+}
