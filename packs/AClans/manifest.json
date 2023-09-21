@@ -1,0 +1,27 @@
+{
+    "format_version": 2,
+    "header": {
+        "min_engine_version": [
+            1,
+            19,
+            0
+        ],
+        "name": "AClans",
+        "description": "Language pack",
+        "uuid": "a9d5c653-6801-4a72-b976-bb7cbb6f7e04",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [{
+        "type": "resources",
+        "uuid": "56ab9487-4822-499a-9119-88b7649d8cd3",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }]
+}
