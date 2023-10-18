@@ -47,8 +47,6 @@ module.exports = {
         }
 
         const createClanMessage = async (channel) => {
-            await clearOldMessages(channel, 1);
-        
             const clanButtonMessage = await getLastMessage(channel);
             if (clanButtonMessage) {
                 return clanButtonMessage;

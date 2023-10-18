@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'onLeft',
+    name: 'onJoin',
     async execute(pl){
     }
 }

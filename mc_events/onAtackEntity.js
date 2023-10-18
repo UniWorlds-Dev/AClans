@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'onLeft',
+    name: 'onAtackEntity',
     async execute(pl, en){
     }
 }
